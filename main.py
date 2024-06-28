@@ -11,8 +11,8 @@ screen = pygame.display.set_mode((screen_width, screen_height))
 pygame.display.set_caption("Jeu de Devinettes")
 
 # Couleurs
-white = (255, 255, 255)
-black = (0, 0, 0)
+white = (232, 222, 171)
+black = (63, 72, 204)
 gray = (200, 200, 200)
 light_gray = (170, 170, 170)
 dark_gray = (100, 100, 100)
