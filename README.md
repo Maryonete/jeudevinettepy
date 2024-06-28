@@ -26,7 +26,7 @@ Ce projet implémente un jeu de devinettes simple en Python, utilisant la biblio
 
 1. Clonez le dépôt du projet :
    ```bash
-   git clone <url-du-repo>
+   git clone https://github.com/Maryonete/jeudevinettepy
    ```
 2. Accédez au répertoire du projet :
    ```bash
